@@ -15,7 +15,7 @@
     "promised-io": "*",
     "walker": "1.x",
     "moo-server": "1.3.x",
-    "js-yaml": "0.3.x"
+    "js-yaml": "4.1.x"
   },
   "devDependencies": {}
 }
